@@ -1,4 +1,4 @@
-﻿# Peran Bagian MVC
+﻿# MVC
 MVC adalah konsep arsitektur dalam pembangunan aplikasi berbasis web yang membagi aplikasi web menjadi 3 bagian besar. 
 
 ## Tujuan
